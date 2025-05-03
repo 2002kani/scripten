@@ -12,6 +12,7 @@ dist
 dist-ssr
 *.local
 dist-react
+env
 
 # Editor directories and files
 .vscode/*
